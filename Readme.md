@@ -1,7 +1,7 @@
 # Installation
 
 ```shell
-git clone 
+git clone https://github.com/MuMuJun97/NavLLM.git
 # Datasets
 cp -r /mnt/petrelfs/zhaolin/vln/mp3d/datasets to '__<path_to_project>'
 ```
